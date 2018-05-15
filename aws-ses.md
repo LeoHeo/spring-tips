@@ -1,4 +1,5 @@
-## AWS SES 이용하여 이메일 보내기(Draft)
+## AWS SES 이용하여 이메일 보내기
+- [Spring AWS SES 삽질기 최종본](https://leoheo.github.io/AWS-SES/)
 
 ## gradle
 ```groovy
