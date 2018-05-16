@@ -7,4 +7,5 @@ Spring 하면서 삽질했던거 모음
 - [social login할때 provider마다 gradle dependency 해야 할 것들](./oauth2-client-application-setting.md)
 - [JWT Token을 발급하는 2가지 방법](./two-issue-jwt-token.md)
 - [AWS SES 사용방법](./aws-ses.md)
-- [Spring JPA Strategy](./jpa-naming-strategy.md)
+- [Spring-data-JPA Strategy](./jpa-naming-strategy.md)
+- [Spring-data-JPA UUID Strategy](./jpa-uuid.md)
