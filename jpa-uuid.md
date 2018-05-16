@@ -23,7 +23,7 @@ public class Order {
 ```java
 @Entity
 @Table(name = "ORDERS")
-public order {
+public class order {
 
   @Id
   @GeneratedValue(generator = "uuid2")
