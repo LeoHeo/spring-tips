@@ -39,6 +39,7 @@ public order {
 
 ```
 bd5ea7dc-f0cf-41a6-b103-a8e6774971a3
+{time_based}-{DCE based using POSIX UIDs}-{name based (md5 hash)}-{random numbers based}-{name based (sha-1 hash)}
 ```
 
 - [각각 영역에 대한 설명](https://github.com/hibernate/hibernate-orm/blob/9b00aaf9a55f9879a512b34c13dd25425264494b/hibernate-core/src/main/java/org/hibernate/id/UUIDGenerationStrategy.java#L21-L28)은 `UUIDGenerationStrategy`에 적혀있다.
