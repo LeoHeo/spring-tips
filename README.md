@@ -9,3 +9,4 @@ Spring 하면서 삽질했던거 모음
 - [AWS SES 사용방법](./aws-ses.md)
 - [Spring-data-JPA Strategy](./jpa-naming-strategy.md)
 - [Spring-data-JPA UUID Strategy](./jpa-uuid.md)
+- [DataJpaTest 각종 설정방법](./datajpatest-profile.md)
