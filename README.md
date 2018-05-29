@@ -10,3 +10,4 @@ Spring 하면서 삽질했던거 모음
 - [Spring-data-JPA Strategy](./jpa-naming-strategy.md)
 - [Spring-data-JPA UUID Strategy](./jpa-uuid.md)
 - [DataJpaTest 각종 설정방법](./datajpatest-profile.md)
+- [Spring-security Bcrypt 설명](./spring-security-bcrypt.md)
